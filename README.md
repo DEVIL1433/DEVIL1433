@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Devil 👋
 
-<!--
-**DEVIL1433/DEVIL1433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ethical hacker & security-tool builder** — web application pentesting,
+recon & attack-surface mapping, and bug bounty hunting.
 
-Here are some ideas to get you started:
+## 🔭 Featured project — Reconix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/DEVIL1433/reconix">
+    <img src="https://github.com/DEVIL1433/reconix/raw/main/img/reconix-lockup.png" alt="Reconix — recon tool and web vulnerability scanner" width="480">
+  </a>
+</p>
+
+[**Reconix**](https://github.com/DEVIL1433/reconix) — a proof-based
+**recon tool and web vulnerability scanner** that runs **fully standalone
+on Android** (single APK — no server, no root, no account) and on the
+desktop. 50+ check classes, external reconnaissance, attack-surface
+inventory, plain-language findings with proof, and HTML/PDF/DOCX reports.
+
+📱 **[Download the Android APK (v1.4)](https://github.com/DEVIL1433/reconix/releases/tag/v1.4)**
+
+## 🛠️ Focus areas
+
+- Web VAPT & API security testing
+- Reconnaissance & external attack-surface management (ASM)
+- Bug bounty hunting
+- Building security tools in Python
+
+*Only test systems you own or are explicitly authorized to assess.*
